@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BASAVARAJSULEPETH
-- 👀 I’m interested in front end ddevelopment
+- 👀 I’m interested in front end Development
 - 🌱 I’m currently learning bachelor of engineering (CSE)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
